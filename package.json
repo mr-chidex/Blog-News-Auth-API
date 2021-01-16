@@ -1,0 +1,37 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "1. Post can be created. On creating a blog post, blog image field must be entered(image) and the author's image field(authorImage).\r 2. Blog post can be updated. On updating a post, if the blogs image or author's image is change,the new image will be updated and the old one deleted.\r 3. Blog post can be deleted. On deleting a post, the image associated to that post will be deleted.\r 4. You can get a single blog post.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev-server": "nodemon app.js"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "mr-chidex",
+  "license": "ISC",
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-promise-router": "^4.0.1",
+    "joi": "^17.3.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.11",
+    "multer": "^1.4.2",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0",
+    "uuid": "^8.3.2",
+    "uuidv4": "^6.2.6",
+    "winston": "^3.3.3",
+    "winston-mongodb": "^5.0.5"
+  }
+}

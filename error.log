@@ -1,0 +1,65 @@
+{"level":"error","message":"File too large","timestamp":"2021-01-15T08:44:39.779Z"}
+{"message":"File too large","level":"error","timestamp":"2021-01-15T08:46:21.773Z"}
+{"level":"error","message":"File too large","timestamp":"2021-01-15T08:48:16.358Z"}
+{"level":"error","message":"File too large","timestamp":"2021-01-15T08:50:43.122Z"}
+{"level":"error","message":"File too large"}
+{"level":"error","message":"File too large"}
+{"level":"error","message":"File too large","timestamp":"2021-01-15T08:58:27.458Z"}
+{"level":"error","message":"File too large","timestamp":"2021-01-15T08:58:27.504Z"}
+{"level":"error","message":"File too large","timestamp":"2021-01-15T08:58:40.078Z"}
+{"level":"error","message":"File too large","timestamp":"2021-01-15T08:59:03.955Z"}
+{"level":"error","message":"File too large","timestamp":"2021-01-15T08:59:28.116Z"}
+{"level":"error","message":"error connecting to database","timestamp":"2021-01-15T09:01:45.338Z"}
+{"level":"error","message":"error connecting to database The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","stack":"MongooseError: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.\n    at NativeConnection.Connection.openUri (C:\\Users\\EliteBook 840\\Desktop\\Blog\\node_modules\\mongoose\\lib\\connection.js:680:11)\n    at C:\\Users\\EliteBook 840\\Desktop\\Blog\\node_modules\\mongoose\\lib\\index.js:345:10\n    at C:\\Users\\EliteBook 840\\Desktop\\Blog\\node_modules\\mongoose\\lib\\helpers\\promiseOrCallback.js:31:5\n    at new Promise (<anonymous>)\n    at promiseOrCallback (C:\\Users\\EliteBook 840\\Desktop\\Blog\\node_modules\\mongoose\\lib\\helpers\\promiseOrCallback.js:30:10)\n    at Mongoose._promiseOrCallback (C:\\Users\\EliteBook 840\\Desktop\\Blog\\node_modules\\mongoose\\lib\\index.js:1135:10)\n    at Mongoose.connect (C:\\Users\\EliteBook 840\\Desktop\\Blog\\node_modules\\mongoose\\lib\\index.js:344:20)\n    at Object.<anonymous> (C:\\Users\\EliteBook 840\\Desktop\\Blog\\app.js:15:10)\n    at Module._compile (internal/modules/cjs/loader.js:1063:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)\n    at Module.load (internal/modules/cjs/loader.js:928:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:769:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)\n    at internal/main/run_main_module.js:17:47","timestamp":"2021-01-15T09:02:08.775Z"}
+{"level":"error","message":"File too large","timestamp":"2021-01-15T09:04:41.246Z"}
+{"level":"error","message":"File too large","timestamp":"2021-01-15T09:09:55.833Z"}
+{"level":"error","message":"File too large","timestamp":"2021-01-15T09:10:04.740Z"}
+{"level":"error","message":"error connecting to database","timestamp":"2021-01-15T09:15:46.467Z"}
+{"level":"error","message":"error connecting to database","timestamp":"2021-01-15T09:15:54.702Z"}
+{"level":"error","message":"error connecting to database","timestamp":"2021-01-15T09:16:38.200Z"}
+{"level":"error","message":"The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"2021-01-15T09:23:12.272Z"}
+{"level":"error","message":"The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"2021-01-15T09:23:32.062Z"}
+{"level":"error","message":"error connecting to database","timestamp":"2021-01-15T09:23:56.490Z"}
+{"level":"error","message":"error connecting to database","timestamp":"2021-01-15T09:24:08.993Z"}
+{"level":"error","message":"error connecting to database","timestamp":"2021-01-15T09:24:54.228Z"}
+{"level":"error","message":"error connecting to database","timestamp":"2021-01-15T09:25:58.618Z"}
+{"level":"error","message":"File too large","timestamp":"2021-01-15T09:26:07.957Z"}
+{"level":"error","message":"error connecting to database","timestamp":"2021-01-15T09:27:08.438Z"}
+{"level":"error","message":"error connecting to database","timestamp":"2021-01-15T09:30:28.304Z"}
+{"level":"error","message":"error connecting to database","timestamp":"2021-01-15T09:44:39.832Z"}
+{"level":"error","message":"error connecting to database","timestamp":"2021-01-15T09:45:18.686Z"}
+{"level":"error","message":"error connecting to database","timestamp":"2021-01-15T09:45:45.936Z"}
+{"level":"error","message":"error connecting to database","timestamp":"2021-01-15T09:58:49.310Z"}
+{"level":"error","message":"error connecting to database","timestamp":"2021-01-15T10:00:13.412Z"}
+{"level":"error","message":"error connecting to database","timestamp":"2021-01-15T10:00:31.820Z"}
+{"level":"error","message":"File too large","timestamp":"2021-01-15T10:19:55.491Z"}
+{"level":"error","message":"res.staus is not a function","timestamp":"2021-01-15T10:31:05.981Z"}
+{"level":"error","message":"Unexpected field","timestamp":"2021-01-15T10:32:20.992Z"}
+{"level":"error","message":"Unexpected field","timestamp":"2021-01-15T10:33:14.744Z"}
+{"level":"error","message":"Unexpected field","timestamp":"2021-01-15T10:33:16.271Z"}
+{"level":"error","message":"Unexpected field","timestamp":"2021-01-15T10:33:29.040Z"}
+{"level":"error","message":"Unexpected field","timestamp":"2021-01-15T10:34:09.150Z"}
+{"level":"error","message":"Unexpected field","timestamp":"2021-01-15T10:34:40.985Z"}
+{"level":"error","message":"Unexpected field","timestamp":"2021-01-15T10:35:22.898Z"}
+{"level":"error","message":"Unexpected field","timestamp":"2021-01-15T10:36:19.880Z"}
+{"level":"error","message":"value is not defined","timestamp":"2021-01-15T10:36:26.037Z"}
+{"level":"error","message":"authorName is not defined","timestamp":"2021-01-15T10:39:41.269Z"}
+{"level":"error","message":"authorName is not defined","timestamp":"2021-01-15T10:46:55.954Z"}
+{"level":"error","message":"Blog validation failed: authorName: Cast to ObjectId failed for value \"chidex mr-chidex\" at path \"authorName\", authorImage: Cast to ObjectId failed for value \"images\\\\2141b9fe-16aa-4f42-b45b-74d279736a2d-5.png\" at path \"authorImage\"","timestamp":"2021-01-15T10:49:53.521Z"}
+{"level":"error","message":"Unexpected field","timestamp":"2021-01-15T11:25:46.261Z"}
+{"level":"error","message":"Cannot read property 'path' of undefined","timestamp":"2021-01-15T11:25:59.896Z"}
+{"level":"error","message":"Cannot read property '_id' of undefined","timestamp":"2021-01-15T12:29:44.862Z"}
+{"level":"error","message":"Blog validation failed: adminId: Path `adminId` is required.","timestamp":"2021-01-15T12:30:06.619Z"}
+{"level":"error","message":"(intermediate value).selected is not a function","timestamp":"2021-01-15T12:39:04.051Z"}
+{"level":"error","message":"(intermediate value).select is not a function","timestamp":"2021-01-15T12:39:54.056Z"}
+{"level":"error","message":"Cannot read property 'toString' of undefined","timestamp":"2021-01-15T12:52:58.944Z"}
+{"level":"error","message":"File too large","timestamp":"2021-01-15T12:58:10.004Z"}
+{"level":"error","message":"blog is not defined","timestamp":"2021-01-15T13:11:14.773Z"}
+{"level":"error","message":"blog is not defined","timestamp":"2021-01-15T13:13:10.065Z"}
+{"level":"error","message":"Cannot read property 'toString' of undefined","timestamp":"2021-01-15T13:13:54.939Z"}
+{"level":"error","message":"Cannot read property 'toString' of undefined","timestamp":"2021-01-15T13:15:43.765Z"}
+{"level":"error","message":"Cannot read property 'toString' of undefined","timestamp":"2021-01-15T13:16:36.924Z"}
+{"level":"error","message":"Cannot read property 'toString' of undefined","timestamp":"2021-01-15T13:17:26.718Z"}
+{"level":"error","message":"Blog validation failed: views: Cast to Number failed for value \"NaN\" at path \"views\"","timestamp":"2021-01-15T16:34:22.094Z"}
+{"level":"error","message":"Blog validation failed: views: Cast to Number failed for value \"NaN\" at path \"views\"","timestamp":"2021-01-15T16:35:00.617Z"}
+{"level":"error","message":"Blog validation failed: views: Cast to Number failed for value \"NaN\" at path \"views\"","timestamp":"2021-01-15T16:35:03.123Z"}
