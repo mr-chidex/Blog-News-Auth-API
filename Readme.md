@@ -10,7 +10,7 @@ GET /api/v1/news
 
 ```
 
-2. Get blog and news post by category (e.g skill, gender, disaster, etc)
+2. Get blog and news post by category (e.g finance, medical, tech, etc)
 
 ```
 GET /api/v1/blogs?category=skill
