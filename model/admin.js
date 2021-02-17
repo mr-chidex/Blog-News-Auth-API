@@ -100,8 +100,9 @@ const generateToken = (admin) => {
     const jwtToken = JWT.sign({
         iss: "GARNETCARE FOUNDATION",
         iat: new Date().getTime(),
+        exp: Math.floor(Date.now() / 1000) + (24 * 60 * 60),
         sub: admin
-    }, process.env.SECRET_KEY, { expiresIn: "24hr" })
+    }, process.env.SECRET_KEY)
     return jwtToken;
 }
 

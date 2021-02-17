@@ -61,4 +61,6 @@ POST /api/v1/admin
 POST /api/v1/admin/signin
 ```
 
+\*\* Read and Write files (csv,excel, pdf)
+
 - Github: [@mr-chidex](https://github.com/mr-chidex)
