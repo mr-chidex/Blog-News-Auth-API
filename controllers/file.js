@@ -1,11 +1,9 @@
 const pdfDocument = require("pdfkit");
 const fs = require("fs");
 const path = require("path");
-// const ejs = require('ejs');
 const xlsxFile = require("read-excel-file/node");
 const csv = require("csv-parser");
 const { jsPDF } = require("jspdf");
-// const htmlPdf = require('html-pdf');
 
 module.exports = {
   getPdf: async (req, res, next) => {

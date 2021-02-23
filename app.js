@@ -43,7 +43,7 @@ app.use("/pdfs", express.static(path.join(__dirname, "./", "pdfs")));
 app.use("/api/v1/blogs", blogs);
 app.use("/api/v1/news", news);
 app.use("/api/v1/admin", admin);
-app.use("/api/v1/file", file);
+// app.use("/api/v1/file", file);
 app.use("/api/v1/oauth", oauth);
 
 //catching error

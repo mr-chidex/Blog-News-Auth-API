@@ -7,7 +7,7 @@ module.exports = async (req, res, next) => {
 
   const decodedToken = await jwt.decode(token, process.env.SECRET_KEY);
 
-  if (Date.now() < decodedToken.exp)
+  if (Date.now() >= decodedToken.exp)
     return res.status(401).json({ message: "session expired, please login" });
 
   const decode = jwt.verify(token, process.env.SECRET_KEY);
